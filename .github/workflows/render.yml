@@ -1,0 +1,58 @@
+name: render-shorts
+on:
+  schedule:
+    - cron: "*/10 4-17 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: render-shorts
+  cancel-in-progress: false
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Isleri oku
+        id: jobs
+        run: |
+          curl -sSL -o jobs.csv "https://docs.google.com/spreadsheets/d/1Vkgia9Ci3Xsy5kCHtowOgYCPZkv_5NrEFMj0i9zKy04/export?format=csv&gid=1887033884"
+          python3 - <<'EOF'
+          import csv, json, os, sys
+          rows = list(csv.reader(open("jobs.csv", encoding="utf-8")))
+          if not rows or len(rows[0]) < 3 or "import" not in rows[0][2]:
+              print("Sheet okunamadi (paylasim acik mi?)"); sys.exit(1)
+          open("render.py", "w", encoding="utf-8").write(rows[0][2])
+          os.makedirs("videos", exist_ok=True); os.makedirs("/tmp/jobs", exist_ok=True)
+          todo = 0
+          for r in rows[1:]:
+              if len(r) < 2 or not r[0].strip() or not r[1].strip(): continue
+              name = "".join(c for c in r[0].strip() if c.isalnum() or c in "-_")
+              if os.path.exists(f"videos/{name}.mp4"): continue
+              json.loads(r[1]); open(f"/tmp/jobs/{name}.json", "w", encoding="utf-8").write(r[1]); todo += 1
+          print("yeni is:", todo)
+          open(os.environ["GITHUB_OUTPUT"], "a").write(f"todo={todo}\n")
+          EOF
+      - name: Kurulum
+        if: steps.jobs.outputs.todo != '0'
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-dejavu-core > /dev/null
+          pip install -q numpy pillow
+      - name: Videolari uret
+        if: steps.jobs.outputs.todo != '0'
+        run: |
+          for j in /tmp/jobs/*.json; do
+            n=$(basename "$j" .json)
+            python3 render.py "$j" "videos/$n.mp4" || echo "HATA: $n" >> videos/_errors.log
+            rm -f videos/$n.wav videos/${n}_voice.mp3
+          done
+          ls videos | sort | head -n -40 | grep '\.mp4$' | while read f; do rm -f "videos/$f"; done
+      - name: Depoya yukle
+        if: steps.jobs.outputs.todo != '0'
+        run: |
+          git config user.name "render-bot"
+          git config user.email "render-bot@users.noreply.github.com"
+          git add videos
+          git diff --cached --quiet && exit 0
+          git commit -m "Videolar uretildi"
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
