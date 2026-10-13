@@ -2,3 +2,15 @@ https://www.youtube.com/watch?v=83OCSSVA4SA start=45.0: yt-dlp: ERROR: [youtube]
  | ERROR: [youtube] 83OCSSVA4SA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
  | ERROR: [youtube] 83OCSSVA4SA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
 
+https://cnnturk.com/spor/futbol/galatasaray-4-1-konyaspor-mac-ozeti start=20.0: yt-dlp: ERROR: Unsupported URL: https://www.cnnturk.com/spor/futbol/galatasaray-4-1-konyaspor-mac-ozeti-734114
+ | ERROR: Unsupported URL: https://www.cnnturk.com/spor/futbol/galatasaray-4-1-konyaspor-mac-ozeti-734114
+ | ERROR: Unsupported URL: https://www.cnnturk.com/spor/futbol/galatasaray-4-1-konyaspor-mac-ozeti-734114
+
+https://www.sozcu.com.tr/galatasaray-3-balikesirspor-1-mac-ozeti-gs-balikesirspor-macin-golleri-wp745151 start=20.0: yt-dlp: ERROR: Unsupported URL: https://www.sozcu.com.tr/galatasaray-3-balikesirspor-1-mac-ozeti-gs-balikesirspor-macin-golleri-wp745151
+ | ERROR: Unsupported URL: https://www.sozcu.com.tr/galatasaray-3-balikesirspor-1-mac-ozeti-gs-balikesirspor-macin-golleri-wp745151
+ | ERROR: Unsupported URL: https://www.sozcu.com.tr/galatasaray-3-balikesirspor-1-mac-ozeti-gs-balikesirspor-macin-golleri-wp745151
+
+https://beinsports.com.tr/haber/galatasaray-akhisar-belediyespor-mac-ozeti start=20.0: yt-dlp: ERROR: [generic] galatasaray-akhisar-belediyespor-mac-ozeti: Unable to download webpage: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)
+ | ERROR: [generic] galatasaray-akhisar-belediyespor-mac-ozeti: Unable to download webpage: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)
+ | ERROR: [generic] galatasaray-akhisar-belediyespor-mac-ozeti: Unable to download webpage: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)
+
