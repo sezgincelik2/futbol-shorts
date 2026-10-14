@@ -14,3 +14,11 @@ https://beinsports.com.tr/haber/galatasaray-akhisar-belediyespor-mac-ozeti start
  | ERROR: [generic] galatasaray-akhisar-belediyespor-mac-ozeti: Unable to download webpage: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)
  | ERROR: [generic] galatasaray-akhisar-belediyespor-mac-ozeti: Unable to download webpage: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)
 
+https://www.youtube.com/watch?v=MMh6Xmfq_u4 start=25.0: yt-dlp: ERROR: [youtube] MMh6Xmfq_u4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+ | ERROR: [youtube] MMh6Xmfq_u4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+ | ERROR: [youtube] MMh6Xmfq_u4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+
+https://www.youtube.com/watch?v=ks1Y3J3cPNE start=60.0: yt-dlp: ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
+ | ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
+ | ERROR: [youtube] ks1Y3J3cPNE: The uploader has not made this video available in your country
+
