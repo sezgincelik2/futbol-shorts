@@ -47,3 +47,9 @@ ValueError: box offset can't be negative
          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 ValueError: box offset can't be negative
 
+2026-10-14 23:31 HATA: 2026-10-14-3 (deneme 1): render çıkış kodu 1:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/.local/lib/python3.12/site-packages/PIL/Image.py", line 2438, in resize
+    im = self.im.resize(size, resample, box)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: box offset can't be negative
+
