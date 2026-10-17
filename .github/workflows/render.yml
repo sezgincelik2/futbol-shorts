@@ -19,8 +19,8 @@ jobs:
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-dejavu-core > /dev/null
           pip install -q numpy pillow
-      - name: Surekli uretim
-              env:
+            - name: Surekli uretim
+        env:
           YT_COOKIES: ${{ secrets.YT_COOKIES }}
         run: |
           curl -sSL -o jobs.csv "https://docs.google.com/spreadsheets/d/1Vkgia9Ci3Xsy5kCHtowOgYCPZkv_5NrEFMj0i9zKy04/export?format=csv&gid=1887033884"
