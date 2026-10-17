@@ -805,3 +805,19 @@ edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that y
 edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
 
 2026-10-17 17:47 seslendirme tamam: 10 sahne, motor ['edge:tr-TR-AhmetNeural', 'gtts'], 59.8 sn
+2026-10-17 18:41 yt-dlp tüm denemeler başarısız: ERROR: [youtube] 0HUtqIlz-B4: The page needs to be reloaded.
+ || youtube:player_client=tv: ERROR: [youtube] 0HUtqIlz-B4: The page needs to be reloaded.
+ || youtube:player_client=web_creator: ERROR: [youtube] 0HUtqIlz-B4: Requested format is not available. Use --list-formats for a list of available formats
+ || youtube:player_client=mweb: ERROR: [youtube] 0HUtqIlz-B4: Requested format is not available. Use --list-formats for a list of available formats
+ || youtube:player_client=web_embedded: ERROR: [youtube] 0HUtqIlz-B4: Requested format is not available. Use --list-formats for a list of available formats
+ || youtube:player_client=default,tv: ERROR: [youtube] 0HUtqIlz-B4: The page needs to be reloaded.
+ || nocookie: -do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+
+2026-10-17 18:41 yt-dlp tüm denemeler başarısız: ERROR: [youtube] dHSm_2AI5_Q: The page needs to be reloaded.
+ || youtube:player_client=tv: ERROR: [youtube] dHSm_2AI5_Q: The page needs to be reloaded.
+ || youtube:player_client=web_creator: ERROR: [youtube] dHSm_2AI5_Q: Requested format is not available. Use --list-formats for a list of available formats
+ || youtube:player_client=mweb: ERROR: [youtube] dHSm_2AI5_Q: Requested format is not available. Use --list-formats for a list of available formats
+ || youtube:player_client=web_embedded: ERROR: [youtube] dHSm_2AI5_Q: Requested format is not available. Use --list-formats for a list of available formats
+ || youtube:player_client=default,tv: ERROR: [youtube] dHSm_2AI5_Q: The page needs to be reloaded.
+ || nocookie: -do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+
