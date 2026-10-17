@@ -314,3 +314,11 @@ https://www.youtube.com/watch?v=dHSm_2AI5_Q start=2.0: yt-dlp: ERROR: [youtube] 
  | ERROR: [youtube] dHSm_2AI5_Q: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
  | ERROR: [youtube] dHSm_2AI5_Q: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
 
+https://www.youtube.com/watch?v=0HUtqIlz-B4 start=5.0: yt-dlp: ERROR: [youtube] 0HUtqIlz-B4: The page needs to be reloaded.
+ | ERROR: [youtube] 0HUtqIlz-B4: Requested format is not available. Use --list-formats for a list of available formats
+ | ERROR: [youtube] 0HUtqIlz-B4: Requested format is not available. Use --list-formats for a list of available formats
+
+https://www.youtube.com/watch?v=dHSm_2AI5_Q start=20.0: yt-dlp: ERROR: [youtube] dHSm_2AI5_Q: The page needs to be reloaded.
+ | ERROR: [youtube] dHSm_2AI5_Q: Requested format is not available. Use --list-formats for a list of available formats
+ | ERROR: [youtube] dHSm_2AI5_Q: Requested format is not available. Use --list-formats for a list of available formats
+
