@@ -840,3 +840,12 @@ edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that y
  || youtube:player_client=default,tv: ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
  || nocookie: ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
 
+2026-10-18 05:04 seslendirme tamam: 8 sahne, motor ['edge:tr-TR-AhmetNeural'], 42.6 sn
+2026-10-18 05:04 yt-dlp tüm denemeler başarısız: ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
+ || youtube:player_client=tv: ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
+ || youtube:player_client=web_creator: ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
+ || youtube:player_client=mweb: ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
+ || youtube:player_client=web_embedded: ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
+ || youtube:player_client=default,tv: ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
+ || nocookie: ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
+

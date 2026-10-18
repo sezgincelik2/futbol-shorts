@@ -338,3 +338,7 @@ https://www.youtube.com/watch?v=ks1Y3J3cPNE start=60.0: yt-dlp: ERROR: [youtube]
  | ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
  | ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
 
+https://www.youtube.com/watch?v=ks1Y3J3cPNE start=60.0: yt-dlp: ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
+ | ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
+ | ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
+
