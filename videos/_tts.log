@@ -5450,3 +5450,8 @@ edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that y
 edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
 
 2026-10-18 19:46 seslendirme tamam: 9 sahne, motor ['edge:tr-TR-AhmetNeural', 'gtts'], 43.1 sn
+2026-10-18 19:49 seslendirme tamam: 7 sahne, motor ['edge:tr-TR-EmelNeural'], 53.4 sn
+2026-10-18 19:49 gen görsel tamam (flux): a cute 4 year old toddler girl with big blue eyes, short cur
+2026-10-18 19:50 gen görsel tamam (default): a cute 4 year old toddler girl with big blue eyes, short cur
+2026-10-18 19:51 gen görsel tamam (turbo): close-up of big shiny raindrops floating in the air with sun
+2026-10-18 19:51 gen görsel tamam (turbo): a cute 4 year old toddler girl with big blue eyes, short cur
