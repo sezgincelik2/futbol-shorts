@@ -821,3 +821,4 @@ edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that y
  || youtube:player_client=default,tv: ERROR: [youtube] dHSm_2AI5_Q: The page needs to be reloaded.
  || nocookie: -do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
 
+2026-10-18 04:34 seslendirme tamam: 8 sahne, motor ['edge:tr-TR-EmelNeural'], 59.4 sn
