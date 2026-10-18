@@ -913,3 +913,4 @@ edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that y
 edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
 
 2026-10-18 06:34 seslendirme tamam: 12 sahne, motor ['edge:tr-TR-AhmetNeural', 'gtts'], 58.1 sn
+2026-10-18 06:37 seslendirme tamam: 10 sahne, motor ['edge:tr-TR-AhmetNeural'], 58.8 sn
