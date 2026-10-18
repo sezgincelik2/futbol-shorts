@@ -2826,3 +2826,40 @@ edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that y
 edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
 
 2026-10-18 12:40 seslendirme tamam: 10 sahne, motor ['edge:tr-TR-AhmetNeural', 'gtts'], 58.6 sn
+2026-10-18 12:45 edge-tts hata: ne 588, in stream
+    async for message in self.__stream():
+  File "/home/runner/.local/lib/python3.12/site-packages/edge_tts/communicate.py", line 562, in __stream
+    raise NoAudioReceived(
+edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
+
+2026-10-18 12:45 edge-tts hata: ne 588, in stream
+    async for message in self.__stream():
+  File "/home/runner/.local/lib/python3.12/site-packages/edge_tts/communicate.py", line 562, in __stream
+    raise NoAudioReceived(
+edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
+
+2026-10-18 12:46 edge-tts hata: ne 588, in stream
+    async for message in self.__stream():
+  File "/home/runner/.local/lib/python3.12/site-packages/edge_tts/communicate.py", line 562, in __stream
+    raise NoAudioReceived(
+edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
+
+2026-10-18 12:46 edge-tts hata: ne 588, in stream
+    async for message in self.__stream():
+  File "/home/runner/.local/lib/python3.12/site-packages/edge_tts/communicate.py", line 562, in __stream
+    raise NoAudioReceived(
+edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
+
+2026-10-18 12:46 edge-tts hata: ne 588, in stream
+    async for message in self.__stream():
+  File "/home/runner/.local/lib/python3.12/site-packages/edge_tts/communicate.py", line 562, in __stream
+    raise NoAudioReceived(
+edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
+
+2026-10-18 12:47 edge-tts hata: ne 588, in stream
+    async for message in self.__stream():
+  File "/home/runner/.local/lib/python3.12/site-packages/edge_tts/communicate.py", line 562, in __stream
+    raise NoAudioReceived(
+edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
+
+2026-10-18 12:47 seslendirme tamam: 11 sahne, motor ['edge:tr-TR-AhmetNeural', 'gtts'], 44.5 sn
