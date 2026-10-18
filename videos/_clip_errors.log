@@ -362,3 +362,5 @@ https://www.youtube.com/watch?v=ks1Y3J3cPNE start=60.0: yt-dlp: ERROR: [youtube]
  | ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
  | ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
 
+https://www.dailymotion.com/video/xbneo82 start=6.0: Command '['ffmpeg', '-y', '-loglevel', 'error', '-ss', '1.00', '-i', '/tmp/jobs/2026-10-15-1_clips/clip0_raw.mp4', '-t', '5.96', '-an', '-vf', 'scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,fps=30', '-pix_fmt', 'rgb24', '-f', 'rawvideo', '/tmp/jobs/2026-10-15-1_clips/clip0.mp4.rgb']' returned non-zero exit status 234.
+https://www.dailymotion.com/video/xbneo82 start=24.0: Command '['ffmpeg', '-y', '-loglevel', 'error', '-ss', '1.00', '-i', '/tmp/jobs/2026-10-15-1_clips/clip3_raw.mp4', '-t', '5.74', '-an', '-vf', 'scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,fps=30', '-pix_fmt', 'rgb24', '-f', 'rawvideo', '/tmp/jobs/2026-10-15-1_clips/clip3.mp4.rgb']' returned non-zero exit status 234.
