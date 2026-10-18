@@ -3867,3 +3867,24 @@ edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that y
 
 2026-10-18 15:45 seslendirme tamam: 10 sahne, motor ['edge:tr-TR-AhmetNeural', 'gtts'], 44.8 sn
 2026-10-18 15:49 seslendirme tamam: 5 sahne, motor ['edge:tr-TR-EmelNeural'], 23.7 sn
+2026-10-18 15:56 edge-tts hata: ne 588, in stream
+    async for message in self.__stream():
+  File "/home/runner/.local/lib/python3.12/site-packages/edge_tts/communicate.py", line 562, in __stream
+    raise NoAudioReceived(
+edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
+
+2026-10-18 15:57 edge-tts hata: ne 588, in stream
+    async for message in self.__stream():
+  File "/home/runner/.local/lib/python3.12/site-packages/edge_tts/communicate.py", line 562, in __stream
+    raise NoAudioReceived(
+edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
+
+2026-10-18 15:57 seslendirme tamam: 8 sahne, motor ['edge:tr-TR-AhmetNeural', 'gtts'], 43.7 sn
+2026-10-18 15:58 yt-dlp tüm denemeler başarısız: ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
+ || youtube:player_client=tv: ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
+ || youtube:player_client=web_creator: ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
+ || youtube:player_client=mweb: ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
+ || youtube:player_client=web_embedded: ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
+ || youtube:player_client=default,tv: ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
+ || nocookie: ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
+

@@ -478,3 +478,7 @@ https://www.dailymotion.com/video/xbn4kz2 start=20.0: Command '['ffmpeg', '-y', 
 https://www.dailymotion.com/video/xbkzoeq start=120.0: Command '['ffmpeg', '-y', '-loglevel', 'error', '-ss', '1.00', '-i', '/tmp/jobs/2026-10-15-2_clips/clip6_raw.mp4', '-t', '6.81', '-an', '-vf', 'scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,fps=30', '-pix_fmt', 'rgb24', '-f', 'rawvideo', '/tmp/jobs/2026-10-15-2_clips/clip6.mp4.rgb']' returned non-zero exit status 234.
 https://www.dailymotion.com/video/xbn4kz2 start=20.0: Command '['ffmpeg', '-y', '-loglevel', 'error', '-ss', '1.00', '-i', '/tmp/jobs/2026-10-15-2b_clips/clip0_raw.mp4', '-t', '6.19', '-an', '-vf', 'scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,fps=30', '-pix_fmt', 'rgb24', '-f', 'rawvideo', '/tmp/jobs/2026-10-15-2b_clips/clip0.mp4.rgb']' returned non-zero exit status 234.
 https://www.dailymotion.com/video/xbkzoeq start=120.0: Command '['ffmpeg', '-y', '-loglevel', 'error', '-ss', '1.00', '-i', '/tmp/jobs/2026-10-15-2b_clips/clip6_raw.mp4', '-t', '5.77', '-an', '-vf', 'scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,fps=30', '-pix_fmt', 'rgb24', '-f', 'rawvideo', '/tmp/jobs/2026-10-15-2b_clips/clip6.mp4.rgb']' returned non-zero exit status 234.
+https://www.youtube.com/watch?v=ks1Y3J3cPNE start=60.0: yt-dlp: ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
+ | ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
+ | ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
+
