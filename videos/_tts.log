@@ -1725,3 +1725,36 @@ edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that y
 edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
 
 2026-10-18 09:42 seslendirme tamam: 10 sahne, motor ['edge:tr-TR-AhmetNeural', 'gtts'], 45.0 sn
+2026-10-18 09:48 edge-tts hata: ne 588, in stream
+    async for message in self.__stream():
+  File "/home/runner/.local/lib/python3.12/site-packages/edge_tts/communicate.py", line 562, in __stream
+    raise NoAudioReceived(
+edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
+
+2026-10-18 09:48 edge-tts hata: ne 588, in stream
+    async for message in self.__stream():
+  File "/home/runner/.local/lib/python3.12/site-packages/edge_tts/communicate.py", line 562, in __stream
+    raise NoAudioReceived(
+edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
+
+2026-10-18 09:48 edge-tts hata: ne 588, in stream
+    async for message in self.__stream():
+  File "/home/runner/.local/lib/python3.12/site-packages/edge_tts/communicate.py", line 562, in __stream
+    raise NoAudioReceived(
+edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
+
+2026-10-18 09:49 edge-tts hata: ne 588, in stream
+    async for message in self.__stream():
+  File "/home/runner/.local/lib/python3.12/site-packages/edge_tts/communicate.py", line 562, in __stream
+    raise NoAudioReceived(
+edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
+
+2026-10-18 09:49 seslendirme tamam: 8 sahne, motor ['edge:tr-TR-AhmetNeural', 'gtts'], 43.7 sn
+2026-10-18 09:49 yt-dlp tüm denemeler başarısız: ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
+ || youtube:player_client=tv: ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
+ || youtube:player_client=web_creator: ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
+ || youtube:player_client=mweb: ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
+ || youtube:player_client=web_embedded: ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
+ || youtube:player_client=default,tv: ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
+ || nocookie: ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
+
