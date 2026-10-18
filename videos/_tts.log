@@ -858,3 +858,4 @@ edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that y
  || youtube:player_client=default,tv: ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
  || nocookie: ERROR: [youtube] ks1Y3J3cPNE: Video unavailable
 
+2026-10-18 05:17 seslendirme tamam: 8 sahne, motor ['edge:tr-TR-AhmetNeural'], 44.1 sn
