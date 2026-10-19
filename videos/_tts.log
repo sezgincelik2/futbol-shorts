@@ -5550,3 +5550,9 @@ edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that y
 edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
 
 2026-10-19 05:20 seslendirme tamam: 10 sahne, motor ['edge:tr-TR-AhmetNeural', 'gtts'], 69.2 sn
+2026-10-19 05:24 seslendirme tamam: 8 sahne, motor ['edge:tr-TR-EmelNeural'], 58.1 sn
+2026-10-19 05:24 gen görsel tamam (flux): a cute 4 year old toddler girl with big blue eyes, short cur
+2026-10-19 05:24 gen görsel tamam (flux): a cute 4 year old toddler girl with big blue eyes, short cur
+2026-10-19 05:25 gen görsel alınamadı: a bright yellow sun on the left, a cute smiling blue and gre | HTTP Error 402: Payment Required
+2026-10-19 05:26 gen görsel alınamadı: a thin glowing crescent moon, a half moon and a big round fu | HTTP Error 402: Payment Required
+2026-10-19 05:27 gen görsel tamam (flux): a cute 4 year old toddler girl with big blue eyes, short cur
