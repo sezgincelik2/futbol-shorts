@@ -5474,3 +5474,36 @@ edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that y
 2026-10-19 05:09 gen görsel tamam (default): close-up of golden hexagon honeycomb cells filled with shiny
 2026-10-19 05:10 gen görsel tamam (turbo): a cute 4 year old toddler girl with big blue eyes, short cur
 2026-10-19 05:11 seslendirme tamam: 9 sahne, motor ['edge:tr-TR-AhmetNeural'], 49.3 sn
+2026-10-19 05:14 edge-tts hata: ne 588, in stream
+    async for message in self.__stream():
+  File "/home/runner/.local/lib/python3.12/site-packages/edge_tts/communicate.py", line 562, in __stream
+    raise NoAudioReceived(
+edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
+
+2026-10-19 05:15 edge-tts hata: ne 588, in stream
+    async for message in self.__stream():
+  File "/home/runner/.local/lib/python3.12/site-packages/edge_tts/communicate.py", line 562, in __stream
+    raise NoAudioReceived(
+edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
+
+2026-10-19 05:15 edge-tts hata: ne 588, in stream
+    async for message in self.__stream():
+  File "/home/runner/.local/lib/python3.12/site-packages/edge_tts/communicate.py", line 562, in __stream
+    raise NoAudioReceived(
+edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
+
+2026-10-19 05:15 edge-tts hata: ne 588, in stream
+    async for message in self.__stream():
+  File "/home/runner/.local/lib/python3.12/site-packages/edge_tts/communicate.py", line 562, in __stream
+    raise NoAudioReceived(
+edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
+
+2026-10-19 05:15 seslendirme tamam: 12 sahne, motor ['edge:tr-TR-AhmetNeural', 'gtts'], 63.1 sn
+2026-10-19 05:15 yt-dlp tüm denemeler başarısız: ERROR: [youtube] vpOAwH3-gHg: Video unavailable
+ || youtube:player_client=tv: ERROR: [youtube] vpOAwH3-gHg: Video unavailable
+ || youtube:player_client=web_creator: ERROR: [youtube] vpOAwH3-gHg: Video unavailable
+ || youtube:player_client=mweb: ERROR: [youtube] vpOAwH3-gHg: Video unavailable
+ || youtube:player_client=web_embedded: ERROR: [youtube] vpOAwH3-gHg: Video unavailable
+ || youtube:player_client=default,tv: ERROR: [youtube] vpOAwH3-gHg: Video unavailable
+ || nocookie: ERROR: [youtube] vpOAwH3-gHg: Video unavailable
+
