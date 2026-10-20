@@ -5655,3 +5655,9 @@ edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that y
 edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
 
 2026-10-19 05:38 seslendirme tamam: 10 sahne, motor ['edge:tr-TR-AhmetNeural', 'gtts'], 42.7 sn
+2026-10-20 04:32 seslendirme tamam: 8 sahne, motor ['edge:tr-TR-EmelNeural'], 56.1 sn
+2026-10-20 04:32 gen görsel tamam (flux): a cute 4 year old toddler girl with big blue eyes, short cur
+2026-10-20 04:33 gen görsel tamam (default): a cute 4 year old toddler girl with big blue eyes, short cur
+2026-10-20 04:33 gen görsel tamam (default): a cute smiling green caterpillar happily munching a big fres
+2026-10-20 04:34 gen görsel tamam (default): a cute shiny green chrysalis hanging from a twig under a lea
+2026-10-20 04:35 gen görsel tamam (turbo): a cute 4 year old toddler girl with big blue eyes, short cur
