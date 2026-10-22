@@ -6107,3 +6107,8 @@ edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that y
 2026-10-22 04:38 gen görsel tamam (default): many tiny cute smiling water droplet characters holding hand
 2026-10-22 04:39 gen görsel tamam (turbo): a big friendly grey cartoon cloud with a sleepy happy face, 
 2026-10-22 04:40 gen görsel tamam (turbo): a cute 4 year old toddler girl with big blue eyes, short cur
+2026-10-22 04:43 seslendirme tamam: 8 sahne, motor ['edge:tr-TR-EmelNeural'], 58.7 sn
+2026-10-22 04:44 gen görsel tamam (flux): a calm blue sea under a big smiling sun, soft white wisps of
+2026-10-22 04:45 gen görsel tamam (default): fluffy white clouds forming in a bright blue sky above green
+2026-10-22 04:46 gen görsel tamam (default): a fluffy grey rain cloud with a gentle smile raining soft bl
+2026-10-22 04:50 gen görsel alınamadı: a cute 4 year old toddler girl with big blue eyes, short cur | HTTP Error 402: Payment Required
