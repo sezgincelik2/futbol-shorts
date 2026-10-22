@@ -6113,3 +6113,34 @@ edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that y
 2026-10-22 04:46 gen görsel tamam (default): a fluffy grey rain cloud with a gentle smile raining soft bl
 2026-10-22 04:50 gen görsel alınamadı: a cute 4 year old toddler girl with big blue eyes, short cur | HTTP Error 402: Payment Required
 2026-10-22 04:52 seslendirme tamam: 8 sahne, motor ['edge:tr-TR-EmelNeural'], 62.4 sn
+2026-10-22 05:04 edge-tts hata: ne 588, in stream
+    async for message in self.__stream():
+  File "/home/runner/.local/lib/python3.12/site-packages/edge_tts/communicate.py", line 562, in __stream
+    raise NoAudioReceived(
+edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
+
+2026-10-22 05:05 edge-tts hata: ne 588, in stream
+    async for message in self.__stream():
+  File "/home/runner/.local/lib/python3.12/site-packages/edge_tts/communicate.py", line 562, in __stream
+    raise NoAudioReceived(
+edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
+
+2026-10-22 05:05 edge-tts hata: ne 588, in stream
+    async for message in self.__stream():
+  File "/home/runner/.local/lib/python3.12/site-packages/edge_tts/communicate.py", line 562, in __stream
+    raise NoAudioReceived(
+edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
+
+2026-10-22 05:05 edge-tts hata: ne 588, in stream
+    async for message in self.__stream():
+  File "/home/runner/.local/lib/python3.12/site-packages/edge_tts/communicate.py", line 562, in __stream
+    raise NoAudioReceived(
+edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
+
+2026-10-22 05:06 edge-tts hata: ne 588, in stream
+    async for message in self.__stream():
+  File "/home/runner/.local/lib/python3.12/site-packages/edge_tts/communicate.py", line 562, in __stream
+    raise NoAudioReceived(
+edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
+
+2026-10-22 05:06 seslendirme tamam: 9 sahne, motor ['edge:tr-TR-AhmetNeural', 'gtts'], 44.8 sn
