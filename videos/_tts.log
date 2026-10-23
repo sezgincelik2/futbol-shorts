@@ -6280,3 +6280,9 @@ edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that y
 edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
 
 2026-10-22 05:35 seslendirme tamam: 10 sahne, motor ['edge:tr-TR-AhmetNeural', 'gtts'], 36.5 sn
+2026-10-23 04:32 seslendirme tamam: 8 sahne, motor ['edge:tr-TR-EmelNeural'], 55.8 sn
+2026-10-23 04:32 gen görsel tamam (flux): a cute 4 year old toddler girl with big blue eyes, short cur
+2026-10-23 04:33 gen görsel tamam (default): a cute 4 year old toddler girl with big blue eyes, short cur
+2026-10-23 04:34 gen görsel tamam (default): cute smiling planet Earth floating in space next to a big fr
+2026-10-23 04:44 gen görsel alınamadı: peaceful night over a small cozy village, houses with warm g | The read operation timed out
+2026-10-23 04:47 gen görsel tamam (flux): a cute 4 year old toddler girl with big blue eyes, short cur
