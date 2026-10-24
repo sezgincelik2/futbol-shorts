@@ -6489,3 +6489,10 @@ edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that y
 2026-10-24 04:43 gen görsel tamam (flux): a bright yellow sun in a clear blue sky shining warm golden 
 2026-10-24 04:45 seslendirme tamam: 8 sahne, motor ['edge:tr-TR-EmelNeural'], 55.5 sn
 2026-10-24 04:46 gen görsel tamam (flux): close-up of big bright green plant leaves in a sunny garden,
+2026-10-24 05:00 edge-tts hata: ne 588, in stream
+    async for message in self.__stream():
+  File "/home/runner/.local/lib/python3.12/site-packages/edge_tts/communicate.py", line 562, in __stream
+    raise NoAudioReceived(
+edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
+
+2026-10-24 05:00 seslendirme tamam: 8 sahne, motor ['edge:tr-TR-AhmetNeural', 'gtts'], 45.6 sn
