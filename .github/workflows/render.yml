@@ -22,6 +22,7 @@ jobs:
       - name: Surekli uretim
         env:
           YT_COOKIES: ${{ secrets.YT_COOKIES }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           curl -sSL -o jobs.csv "https://docs.google.com/spreadsheets/d/1Vkgia9Ci3Xsy5kCHtowOgYCPZkv_5NrEFMj0i9zKy04/export?format=csv&gid=1887033884"
           python3 -c "import csv;r=list(csv.reader(open('jobs.csv',encoding='utf-8')));open('runner.py','w',encoding='utf-8').write(r[0][3])"
