@@ -6536,3 +6536,5 @@ edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that y
 2026-10-25 05:15 gemini: gemini-3.8-flash-tts kota dolu
 2026-10-25 05:15 gemini: tamam: gemini-3.8-flash-lite-tts/Puck, 10 sahne, 33.8 sn
 2026-10-25 05:15 seslendirme tamam: 10 sahne, motor ['gemini:Puck'], 40.8 sn
+2026-10-26 04:58 gemini: tamam: gemini-3.8-flash-tts/Puck, 8 sahne, 34.1 sn
+2026-10-26 04:58 seslendirme tamam: 8 sahne, motor ['gemini:Puck'], 39.4 sn
