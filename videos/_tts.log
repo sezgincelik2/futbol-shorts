@@ -6552,3 +6552,29 @@ edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that y
 2026-10-27 05:01 seslendirme tamam: 9 sahne, motor ['gemini:Puck'], 39.9 sn
 2026-10-27 05:03 gemini: tamam: gemini-3.8-flash-tts/Puck, 12 sahne, 49.2 sn
 2026-10-27 05:03 seslendirme tamam: 12 sahne, motor ['gemini:Puck'], 57.9 sn
+2026-10-27 05:11 gemini: bölme güvensiz (sahne 4: beklenen 15.6s, bulunan 17.5s), edge-tts
+2026-10-27 05:11 edge-tts hata: ne 588, in stream
+    async for message in self.__stream():
+  File "/home/runner/.local/lib/python3.12/site-packages/edge_tts/communicate.py", line 562, in __stream
+    raise NoAudioReceived(
+edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
+
+2026-10-27 05:12 edge-tts hata: ne 588, in stream
+    async for message in self.__stream():
+  File "/home/runner/.local/lib/python3.12/site-packages/edge_tts/communicate.py", line 562, in __stream
+    raise NoAudioReceived(
+edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
+
+2026-10-27 05:12 edge-tts hata: ne 588, in stream
+    async for message in self.__stream():
+  File "/home/runner/.local/lib/python3.12/site-packages/edge_tts/communicate.py", line 562, in __stream
+    raise NoAudioReceived(
+edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
+
+2026-10-27 05:13 edge-tts hata: ne 588, in stream
+    async for message in self.__stream():
+  File "/home/runner/.local/lib/python3.12/site-packages/edge_tts/communicate.py", line 562, in __stream
+    raise NoAudioReceived(
+edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
+
+2026-10-27 05:13 seslendirme tamam: 11 sahne, motor ['edge:tr-TR-AhmetNeural', 'gtts'], 71.8 sn
