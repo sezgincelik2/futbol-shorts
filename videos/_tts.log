@@ -6580,3 +6580,5 @@ edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that y
 2026-10-27 05:13 seslendirme tamam: 11 sahne, motor ['edge:tr-TR-AhmetNeural', 'gtts'], 71.8 sn
 2026-10-27 05:21 gemini: tamam: gemini-3.8-flash-tts/Puck, 11 sahne, 31.1 sn
 2026-10-27 05:21 seslendirme tamam: 11 sahne, motor ['gemini:Puck'], 39.3 sn
+2026-10-27 05:24 gemini: tamam: gemini-3.8-flash-tts/Puck, 11 sahne, 38.8 sn
+2026-10-27 05:24 seslendirme tamam: 11 sahne, motor ['gemini:Puck'], 46.8 sn
