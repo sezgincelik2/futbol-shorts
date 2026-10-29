@@ -6594,3 +6594,25 @@ edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that y
 2026-10-28 05:18 seslendirme tamam: 11 sahne, motor ['gemini:Puck'], 42.2 sn
 2026-10-29 04:56 gemini: tamam: gemini-3.8-flash-tts/Puck, 7 sahne, 26.2 sn
 2026-10-29 04:56 seslendirme tamam: 7 sahne, motor ['gemini:Puck'], 30.9 sn
+2026-10-29 04:58 gemini: tamam: gemini-3.8-flash-tts/Puck, 9 sahne, 36.6 sn
+2026-10-29 04:58 seslendirme tamam: 9 sahne, motor ['gemini:Puck'], 43.2 sn
+2026-10-29 04:59 yt-dlp tüm denemeler başarısız: R: [youtube] uO-G2AYRXK4: The uploader has not made this video available in your country
+This video is available in Turkey.
+You might want to use a VPN or a proxy server (with --proxy) to workaround.
+ || youtube:player_client=tv: R: [youtube] uO-G2AYRXK4: The uploader has not made this video available in your country
+This video is available in Turkey.
+You might want to use a VPN or a proxy server (with --proxy) to workaround.
+ || youtube:player_client=web_creator: R: [youtube] uO-G2AYRXK4: The uploader has not made this video available in your country
+This video is available in Turkey.
+You might want to use a VPN or a proxy server (with --proxy) to workaround.
+ || youtube:player_client=mweb: R: [youtube] uO-G2AYRXK4: The uploader has not made this video available in your country
+This video is available in Turkey.
+You might want to use a VPN or a proxy server (with --proxy) to workaround.
+ || youtube:player_client=web_embedded: R: [youtube] uO-G2AYRXK4: The uploader has not made this video available in your country
+This video is available in Turkey.
+You might want to use a VPN or a proxy server (with --proxy) to workaround.
+ || youtube:player_client=default,tv: R: [youtube] uO-G2AYRXK4: The uploader has not made this video available in your country
+This video is available in Turkey.
+You might want to use a VPN or a proxy server (with --proxy) to workaround.
+ || nocookie: R: [youtube] uO-G2AYRXK4: The uploader has not made this video available in your country
+This video is avai
