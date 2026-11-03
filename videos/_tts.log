@@ -6666,3 +6666,5 @@ This video is avai
 2026-11-03 04:54 seslendirme tamam: 7 sahne, motor ['edge:tr-TR-AhmetNeural'], 39.4 sn
 2026-11-03 04:58 gemini: tamam: gemini-3.8-flash-tts/Puck, 9 sahne, 47.8 sn
 2026-11-03 04:58 seslendirme tamam: 9 sahne, motor ['gemini:Puck'], 54.2 sn
+2026-11-03 05:04 gemini: bölme güvensiz (sahne 4: beklenen 14.4s, bulunan 18.9s), edge-tts
+2026-11-03 05:04 seslendirme tamam: 7 sahne, motor ['edge:tr-TR-AhmetNeural'], 39.4 sn
