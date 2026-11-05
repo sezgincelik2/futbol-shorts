@@ -548,3 +548,13 @@ You might want to use a VPN or a proxy server (with --proxy) to workaround.
 This video is available in Turkey.
 You might want to use a VPN or a proxy server (with --proxy) to workaround.
 
+https://www.youtube.com/watch?v=6weNtzZUDjw start=20.0: yt-dlp: ERROR: [youtube] 6weNtzZUDjw: The uploader has not made this video available in your country
+This video is available in Belgium.
+You might want to use a VPN or a proxy server (with --proxy) to workaround.
+ | ERROR: [youtube] 6weNtzZUDjw: The uploader has not made this video available in your country
+This video is available in Belgium.
+You might want to use a VPN or a proxy server (with --proxy) to workaround.
+ | ERROR: [youtube] 6weNtzZUDjw: The uploader has not made this video available in your country
+This video is available in Belgium.
+You might want to use a VPN or a proxy server (with --proxy) to workaround.
+

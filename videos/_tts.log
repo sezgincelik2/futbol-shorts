@@ -6672,3 +6672,25 @@ This video is avai
 2026-11-04 04:54 seslendirme tamam: 8 sahne, motor ['edge:tr-TR-AhmetNeural'], 38.8 sn
 2026-11-04 04:56 gemini: tamam: gemini-3.8-flash-tts/Puck, 11 sahne, 45.7 sn
 2026-11-04 04:56 seslendirme tamam: 11 sahne, motor ['gemini:Puck'], 53.5 sn
+2026-11-05 04:55 gemini: tamam: gemini-3.8-flash-tts/Puck, 9 sahne, 35.0 sn
+2026-11-05 04:55 seslendirme tamam: 9 sahne, motor ['gemini:Puck'], 41.4 sn
+2026-11-05 04:55 yt-dlp tüm denemeler başarısız: : [youtube] 6weNtzZUDjw: The uploader has not made this video available in your country
+This video is available in Belgium.
+You might want to use a VPN or a proxy server (with --proxy) to workaround.
+ || youtube:player_client=tv: : [youtube] 6weNtzZUDjw: The uploader has not made this video available in your country
+This video is available in Belgium.
+You might want to use a VPN or a proxy server (with --proxy) to workaround.
+ || youtube:player_client=web_creator: : [youtube] 6weNtzZUDjw: The uploader has not made this video available in your country
+This video is available in Belgium.
+You might want to use a VPN or a proxy server (with --proxy) to workaround.
+ || youtube:player_client=mweb: : [youtube] 6weNtzZUDjw: The uploader has not made this video available in your country
+This video is available in Belgium.
+You might want to use a VPN or a proxy server (with --proxy) to workaround.
+ || youtube:player_client=web_embedded: : [youtube] 6weNtzZUDjw: The uploader has not made this video available in your country
+This video is available in Belgium.
+You might want to use a VPN or a proxy server (with --proxy) to workaround.
+ || youtube:player_client=default,tv: : [youtube] 6weNtzZUDjw: The uploader has not made this video available in your country
+This video is available in Belgium.
+You might want to use a VPN or a proxy server (with --proxy) to workaround.
+ || nocookie: : [youtube] 6weNtzZUDjw: The uploader has not made this video available in your country
+This video is avail
