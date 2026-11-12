@@ -6728,3 +6728,5 @@ This video is avail
 2026-11-12 04:57 gemini: gemini-3.8-flash-tts HTTP 503: b'{\n  "error": {\n    "code": 503,\n    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later'
 2026-11-12 04:58 gemini: tamam: gemini-3.8-flash-tts/Puck, 8 sahne, 31.7 sn
 2026-11-12 04:58 seslendirme tamam: 8 sahne, motor ['gemini:Puck'], 37.5 sn
+2026-11-12 05:00 gemini: tamam: gemini-3.8-flash-tts/Puck, 10 sahne, 39.0 sn
+2026-11-12 05:00 seslendirme tamam: 10 sahne, motor ['gemini:Puck'], 46.2 sn
