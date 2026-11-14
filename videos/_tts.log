@@ -6734,3 +6734,13 @@ This video is avail
 2026-11-12 05:05 seslendirme tamam: 8 sahne, motor ['gemini:Puck'], 36.4 sn
 2026-11-14 04:55 gemini: tamam: gemini-3.8-flash-tts/Puck, 8 sahne, 29.5 sn
 2026-11-14 04:55 seslendirme tamam: 8 sahne, motor ['gemini:Puck'], 35.1 sn
+2026-11-14 04:58 gemini: tamam: gemini-3.8-flash-tts/Puck, 8 sahne, 40.3 sn
+2026-11-14 04:58 seslendirme tamam: 8 sahne, motor ['gemini:Puck'], 46.2 sn
+2026-11-14 04:58 yt-dlp tüm denemeler başarısız: ERROR: [youtube] TTSvNIkIsTw: Join this channel to get access to members-only content like this video, and other exclusive perks.
+ || youtube:player_client=tv: ERROR: [youtube] TTSvNIkIsTw: Join this channel to get access to members-only content like this video, and other exclusive perks.
+ || youtube:player_client=web_creator: ERROR: [youtube] TTSvNIkIsTw: Join this channel to get access to members-only content like this video, and other exclusive perks.
+ || youtube:player_client=mweb: ERROR: [youtube] TTSvNIkIsTw: Join this channel to get access to members-only content like this video, and other exclusive perks.
+ || youtube:player_client=web_embedded: ERROR: [youtube] TTSvNIkIsTw: Join this channel to get access to members-only content like this video, and other exclusive perks.
+ || youtube:player_client=default,tv: ERROR: [youtube] TTSvNIkIsTw: Join this channel to get access to members-only content like this video, and other exclusive perks.
+ || nocookie: ERROR: [youtube] TTSvNIkIsTw: Join this channel to get access to members-only content like this video, and other exclusive perks.
+

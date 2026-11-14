@@ -558,3 +558,7 @@ You might want to use a VPN or a proxy server (with --proxy) to workaround.
 This video is available in Belgium.
 You might want to use a VPN or a proxy server (with --proxy) to workaround.
 
+https://www.youtube.com/watch?v=TTSvNIkIsTw start=60.0: yt-dlp: ERROR: [youtube] TTSvNIkIsTw: Join this channel to get access to members-only content like this video, and other exclusive perks.
+ | ERROR: [youtube] TTSvNIkIsTw: Join this channel to get access to members-only content like this video, and other exclusive perks.
+ | ERROR: [youtube] TTSvNIkIsTw: Join this channel to get access to members-only content like this video, and other exclusive perks.
+
