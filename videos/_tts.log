@@ -6836,3 +6836,5 @@ This video is avail
 2026-11-24 16:26 seslendirme tamam: 11 sahne, motor ['gemini:Puck'], 46.8 sn
 2026-11-24 16:28 gemini: bölme güvensiz (sahne 9: beklenen 34.3s, bulunan 39.2s), edge-tts
 2026-11-24 16:28 seslendirme tamam: 11 sahne, motor ['edge:tr-TR-AhmetNeural'], 64.4 sn
+2026-11-24 21:57 gemini: tamam: gemini-3.8-flash-tts/Puck, 11 sahne, 40.0 sn
+2026-11-24 21:57 seslendirme tamam: 11 sahne, motor ['gemini:Puck'], 47.8 sn
