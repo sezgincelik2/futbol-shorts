@@ -6804,3 +6804,21 @@ This video is avail
 2026-11-23 23:53 seslendirme tamam: 11 sahne, motor ['gemini:Puck'], 48.2 sn
 2026-11-23 23:54 gemini: tamam: gemini-3.8-flash-tts/Puck, 11 sahne, 47.9 sn
 2026-11-23 23:54 seslendirme tamam: 11 sahne, motor ['gemini:Puck'], 55.8 sn
+2026-11-24 04:56 gemini: tamam: gemini-3.8-flash-tts/Puck, 8 sahne, 36.2 sn
+2026-11-24 04:56 seslendirme tamam: 8 sahne, motor ['gemini:Puck'], 42.0 sn
+2026-11-24 04:58 yt-dlp tüm denemeler başarısız: ERROR: [youtube] 38pk1iJveWM: Video unavailable. This content isn’t available.
+ || youtube:player_client=tv: ERROR: [youtube] 38pk1iJveWM: Video unavailable. This content isn’t available.
+ || youtube:player_client=web_creator: ERROR: [youtube] 38pk1iJveWM: Video unavailable. This content isn’t available.
+ || youtube:player_client=mweb: ERROR: [youtube] 38pk1iJveWM: Video unavailable. This content isn’t available.
+ || youtube:player_client=web_embedded: ERROR: [youtube] 38pk1iJveWM: Video unavailable. This content isn’t available.
+ || youtube:player_client=default,tv: ERROR: [youtube] 38pk1iJveWM: Video unavailable. This content isn’t available.
+ || nocookie: ERROR: [youtube] 38pk1iJveWM: Video unavailable. This content isn’t available.
+
+2026-11-24 05:00 yt-dlp tüm denemeler başarısız: ERROR: [youtube] 38pk1iJveWM: Video unavailable. This content isn’t available.
+ || youtube:player_client=tv: ERROR: [youtube] 38pk1iJveWM: Video unavailable. This content isn’t available.
+ || youtube:player_client=web_creator: ERROR: [youtube] 38pk1iJveWM: Video unavailable. This content isn’t available.
+ || youtube:player_client=mweb: ERROR: [youtube] 38pk1iJveWM: Video unavailable. This content isn’t available.
+ || youtube:player_client=web_embedded: ERROR: [youtube] 38pk1iJveWM: Video unavailable. This content isn’t available.
+ || youtube:player_client=default,tv: ERROR: [youtube] 38pk1iJveWM: Video unavailable. This content isn’t available.
+ || nocookie: ERROR: [youtube] 38pk1iJveWM: Video unavailable. This content isn’t available.
+

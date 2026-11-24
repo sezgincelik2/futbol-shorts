@@ -562,3 +562,11 @@ https://www.youtube.com/watch?v=TTSvNIkIsTw start=60.0: yt-dlp: ERROR: [youtube]
  | ERROR: [youtube] TTSvNIkIsTw: Join this channel to get access to members-only content like this video, and other exclusive perks.
  | ERROR: [youtube] TTSvNIkIsTw: Join this channel to get access to members-only content like this video, and other exclusive perks.
 
+https://www.youtube.com/watch?v=38pk1iJveWM start=4.0: yt-dlp: ERROR: [youtube] 38pk1iJveWM: Video unavailable. This content isn’t available.
+ | ERROR: [youtube] 38pk1iJveWM: Video unavailable. This content isn’t available.
+ | ERROR: [youtube] 38pk1iJveWM: Video unavailable. This content isn’t available.
+
+https://www.youtube.com/watch?v=38pk1iJveWM start=30.0: yt-dlp: ERROR: [youtube] 38pk1iJveWM: Video unavailable. This content isn’t available.
+ | ERROR: [youtube] 38pk1iJveWM: Video unavailable. This content isn’t available.
+ | ERROR: [youtube] 38pk1iJveWM: Video unavailable. This content isn’t available.
+
