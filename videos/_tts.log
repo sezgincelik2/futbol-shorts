@@ -6864,3 +6864,23 @@ This video is avail
 2026-11-26 01:35 seslendirme tamam: 11 sahne, motor ['gemini:Puck'], 52.4 sn
 2026-11-26 01:36 gemini: tamam: gemini-3.8-flash-tts/Puck, 11 sahne, 43.7 sn
 2026-11-26 01:36 seslendirme tamam: 11 sahne, motor ['gemini:Puck'], 51.5 sn
+2026-11-26 04:55 gemini: tamam: gemini-3.8-flash-tts/Puck, 8 sahne, 35.0 sn
+2026-11-26 04:55 seslendirme tamam: 8 sahne, motor ['gemini:Puck'], 40.7 sn
+2026-11-26 04:57 yt-dlp tüm denemeler başarısız: 
+
+ERROR: ffmpeg exited with code 146
+ || youtube:player_client=tv: ERROR: [youtube] tyN2FcSVbgI: The page needs to be reloaded.
+ || youtube:player_client=web_creator: ERROR: [youtube] tyN2FcSVbgI: Requested format is not available. Use --list-formats for a list of available formats
+ || youtube:player_client=mweb: 
+
+ERROR: ffmpeg exited with code 146
+ || youtube:player_client=web_embedded: n-uphho-hqal.googlevideo.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable
+ERROR: fragment 1 not found, unable to continue
+
+
+ERROR: ffmpeg exited with code 146
+ || youtube:player_client=default,tv: 
+
+ERROR: ffmpeg exited with code 146
+ || nocookie: -do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+

@@ -570,3 +570,11 @@ https://www.youtube.com/watch?v=38pk1iJveWM start=30.0: yt-dlp: ERROR: [youtube]
  | ERROR: [youtube] 38pk1iJveWM: Video unavailable. This content isn’t available.
  | ERROR: [youtube] 38pk1iJveWM: Video unavailable. This content isn’t available.
 
+https://www.youtube.com/watch?v=tyN2FcSVbgI start=20.0: yt-dlp: 
+
+ERROR: ffmpeg exited with code 146
+ | 
+
+ERROR: ffmpeg exited with code 146
+ | ERROR: [youtube] tyN2FcSVbgI: Requested format is not available. Use --list-formats for a list of available formats
+
