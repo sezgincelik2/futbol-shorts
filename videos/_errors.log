@@ -425,3 +425,12 @@ KeyError: 'top'
                 ~~^^^^^^^
 KeyError: 'top'
 
+2026-11-26 01:35 HATA: 2026-11-23-2 (deneme 1): render çıkış kodu 1: ^^^^^^^^^
+  File "plugins_E1", line 293, in draw_scene
+    if sc.get("year"):
+               ^^^^^^^
+  File "/home/runner/work/futbol-shorts/futbol-shorts/render.py", line 312, in draw_scene
+    popped(img, sc["top"], BOLD, 190, YEL, pop(lt / 0.45), 760, 8)
+                ~~^^^^^^^
+KeyError: 'top'
+
