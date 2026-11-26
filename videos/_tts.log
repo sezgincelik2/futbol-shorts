@@ -6884,3 +6884,5 @@ ERROR: ffmpeg exited with code 146
 ERROR: ffmpeg exited with code 146
  || nocookie: -do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
 
+2026-11-26 05:00 gemini: tamam: gemini-3.8-flash-tts/Puck, 10 sahne, 40.1 sn
+2026-11-26 05:00 seslendirme tamam: 10 sahne, motor ['gemini:Puck'], 47.5 sn
