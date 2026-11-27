@@ -6912,3 +6912,5 @@ ERROR: ffmpeg exited with code 146
 2026-11-27 04:54 seslendirme tamam: 9 sahne, motor ['gemini:Puck'], 37.5 sn
 2026-11-27 04:57 gemini: tamam: gemini-3.8-flash-tts/Puck, 10 sahne, 45.9 sn
 2026-11-27 04:57 seslendirme tamam: 10 sahne, motor ['gemini:Puck'], 53.1 sn
+2026-11-27 05:06 gemini: tamam: gemini-3.8-flash-tts/Puck, 9 sahne, 29.5 sn
+2026-11-27 05:07 seslendirme tamam: 9 sahne, motor ['gemini:Puck'], 35.6 sn
